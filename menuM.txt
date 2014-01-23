@@ -1,1 +1,1 @@
-Text This is menuMessage.
+Text This is menuMessage v2.
